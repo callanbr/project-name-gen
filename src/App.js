@@ -7,8 +7,8 @@ import adjectives from './components/adjectives';
 const generateHackerName = () => {
     const adjective  = adjectives[Math.floor(Math.random() * adjectives.length)];
     const noun       = nouns[Math.floor(Math.random() * nouns.length)];
-    const hackerName = (`${adjective} ${noun}`);
-    return hackerName;
+    const groupName = (`${adjective} ${noun}`);
+    return groupName;
 }
 
 
