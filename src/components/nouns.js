@@ -30,7 +30,13 @@ const nouns = [
   'Unlockers',
   'Scripters',
   'Legacy',
-  'Team'
+  'Team',
+  'League',
+  'Group',
+  'Gang',
+  'Clan',
+  'Cabal',
+  'Cult',
 ];
 
 export default nouns;

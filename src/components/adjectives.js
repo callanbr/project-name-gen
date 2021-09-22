@@ -33,7 +33,26 @@ const adjectives = [
   'Byte',
   'Server',
   'Script',
-  'Null'
+  'Null',
+  'Power',
+  'Red',
+  'Blue',
+  'Green',
+  'Yellow',
+  'Purple',
+  'Orange',
+  'Pink',
+  'Brown',
+  'Black',
+  'White',
+  'Gray',
+  'Silver',
+  'Gold',
+  'Platinum',
+  'Ruby',
+  'Sapphire',
+  'Emerald',
+  'Diamond',
 ];
 
 export default adjectives;
